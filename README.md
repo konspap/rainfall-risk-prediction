@@ -14,7 +14,7 @@ project structuring and reproducibility
 🚀 Live Application
 Streamlit Demo
 
-https://rainfall-risk-pgzhh6wjoagrkwgfmfax39.streamlit.app
+https://rainfall-risk-prediction-pgzhh6wjoagrkwgfmfax39.streamlit.app/
 
 📌 Business Understanding
 
