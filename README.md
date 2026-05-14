@@ -227,10 +227,12 @@ This confirmed that:
 
 ### 📸 
 
-```text
+``` 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/923b5c20-3d76-4a5c-9634-51ced66632c5" />
 
 ```
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c28175a3-ba2f-4e79-9d5d-c1c63bc48590" />
+
 
 ---
 
