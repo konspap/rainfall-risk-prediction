@@ -1,29 +1,19 @@
 🌧️ Melbourne Rainfall Risk Prediction
-
 Interactive machine learning application for predicting rainfall probability using Australian weather observations and an end-to-end ML pipeline.
-
-🔗 Live Demo:
-Rainfall Risk Prediction App
-
-🔗 GitHub Repository:
-GitHub Repository
+🔗 Live Demo: Rainfall Risk Prediction App
+🔗 GitHub Repository: GitHub Repository
 
 📌 Project Overview
-
 This project was developed as an end-to-end machine learning pipeline focused on predicting rainfall risk based on historical weather conditions.
-
 The goal was not simply to train a model, but to build a complete production-style workflow including:
-
-data preprocessing
-exploratory data analysis (EDA)
-feature engineering
-model training & comparison
-evaluation & threshold tuning
-model persistence
-Streamlit deployment
-
+* data preprocessing
+* exploratory data analysis (EDA)
+* feature engineering
+* model training & comparison
+* evaluation & threshold tuning
+* model persistence
+* Streamlit deployment
 The final result is an interactive web application where users can input weather conditions and receive a rainfall probability prediction in real time.
-
 🎯 Business Problem
 
 Rainfall prediction has real-world value in areas such as:
