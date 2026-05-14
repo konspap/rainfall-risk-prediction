@@ -225,10 +225,9 @@ This confirmed that:
 - rainfall is highly seasonal
 - temporal variables contain strong predictive signal
 
-### 📸 Suggested Screenshot
+### 📸 
 
 ```text
-eda_rain_rate_by_season.png
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/923b5c20-3d76-4a5c-9634-51ced66632c5" />
 
 ```
