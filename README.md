@@ -498,8 +498,7 @@ The app acts as a lightweight production interface for the trained model.
 ### 📸
 
 <img width="1919" height="842" alt="image" src="https://github.com/user-attachments/assets/c9c70d59-87c8-4338-86b8-f4da91561b43" />
-<img width="1916" height="488" alt="image" src="https://github.com/user-attachments/assets/389b17a2-ce22-413a-8a47-664f94836943" />
-
+<img width="1920" height="818" alt="image" src="https://github.com/user-attachments/assets/83593837-85cb-479a-8c75-784be3da043f" />
 
 ---
 
