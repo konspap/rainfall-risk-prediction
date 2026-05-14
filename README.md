@@ -227,10 +227,6 @@ This confirmed that:
 
 ### 📸 
 
-``` 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/923b5c20-3d76-4a5c-9634-51ced66632c5" />
-
-```
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/c28175a3-ba2f-4e79-9d5d-c1c63bc48590" />
 
 
@@ -244,11 +240,9 @@ Some locations consistently experienced higher rainfall rates, suggesting that g
 
 This justified retaining the `Location` feature during modeling.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-eda_rain_rate_by_location.png
-```
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/639dc640-13cd-4d98-8e7b-e63079cfd5a5" />
 
 ---
 
@@ -260,11 +254,10 @@ Rainfall probability increased during colder months and decreased during warmer 
 
 This indicated that rainfall follows clear seasonal dynamics rather than random fluctuations.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-eda_monthly_rain_rate.png
-```
+<img width="1440" height="800" alt="image" src="https://github.com/user-attachments/assets/5d9938d5-e4cf-4267-af37-e2b207e4906e" />
+
 
 ---
 
@@ -279,11 +272,9 @@ Rainy observations generally appeared:
 
 This aligned with real meteorological expectations and validated the dataset’s predictive structure.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-eda_humidity_pressure_scatter.png
-```
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/5d809a90-fb9e-45b3-a279-47f3119bbbdc" />
 
 ---
 
@@ -302,9 +293,7 @@ This analysis confirmed that the dataset contains meaningful predictive structur
 
 ### 📸 Suggested Screenshot
 
-```text
-eda_correlation_heatmap.png
-```
+<img width="1760" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ae776ce-ff5f-4a61-ad7f-8894fc7cfc6a" />
 
 ---
 
@@ -333,11 +322,10 @@ Because of this, evaluation focused heavily on:
 - ROC-AUC
 - Precision-Recall performance
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-eda_target_distribution.png
-```
+<img width="1120" height="800" alt="image" src="https://github.com/user-attachments/assets/a71ad3a0-c682-4c07-b26f-b12dc5bbd31c" />
+
 
 ---
 
@@ -402,11 +390,10 @@ The ROC curve demonstrated strong class separation capability.
 
 An AUC score around **0.90** indicates that the model distinguishes rainy vs non-rainy days very effectively.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-roc_curve.png
-```
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/1d24df64-0ef2-4a55-b623-d92eae9741d3" />
+
 
 ---
 
@@ -416,11 +403,9 @@ Because of class imbalance, Precision-Recall analysis was especially important.
 
 The model maintained strong precision across a wide recall range, indicating useful performance even when prioritizing rainy-day detection.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-precision_recall_curve.png
-```
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/b5db3be0-ca8e-42c4-b607-0ff5765ef26a" />
 
 ---
 
@@ -442,11 +427,9 @@ the model achieved:
 
 This threshold was intentionally selected because missing rainfall events was considered more costly than generating additional false alerts.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-confusion_matrix.png
-```
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/78971088-f8d6-483e-968a-e508c85817f5" />
 
 ---
 
@@ -512,11 +495,11 @@ The application allows users to:
 
 The app acts as a lightweight production interface for the trained model.
 
-### 📸 Suggested Screenshot
+### 📸
 
-```text
-streamlit_app.png
-```
+<img width="1919" height="842" alt="image" src="https://github.com/user-attachments/assets/c9c70d59-87c8-4338-86b8-f4da91561b43" />
+<img width="1916" height="488" alt="image" src="https://github.com/user-attachments/assets/389b17a2-ce22-413a-8a47-664f94836943" />
+
 
 ---
 
